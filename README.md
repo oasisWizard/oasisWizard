@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**oasisWizard/oasisWizard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +8,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+Hello, I'm Zeng Ping, a undergraduate student majoring in Software Engineering at Xinjiang University. Passionate about the field of computer science, I constantly seek innovation and technological advancements.
+
+Throughout my academic journey, I actively engage in various software development projects and delve into different programming languages and tools. I have a keen interest in all aspects of software engineering, including requirements analysis, system design, coding implementation, and software testing. I enjoy collaborating with teams to tackle challenges and employ agile methodologies to enhance project efficiency and quality.
+
+I have a particular fascination with front-end development and user interface design. By mastering technologies like HTML, CSS, and JavaScript, I can create modern websites and interactive applications that offer excellent user experiences. I also stay updated on mobile app development trends and experiment with cross-platform frameworks to build applications that run seamlessly across multiple platforms.
+
+Beyond technical skills, I prioritize personal growth and lifelong learning. I actively participate in tech seminars and workshops, exchanging experiences and insights with fellow students and industry professionals. Additionally, I enjoy reading books and research papers on software engineering, human-computer interaction, and project management to stay informed about industry trends.
+
+As a software engineering student, I strive for excellence and aim to bridge the gap between theory and practice. I look forward to expanding my skills and connecting with a broader development community through the GitHub student verification process. I am excited to learn and grow alongside talented developers and professionals, contributing my efforts to the advancement of software engineering. Thank you!"
+
+Feel free to modify and customize this bio according to your own experiences and interests.
